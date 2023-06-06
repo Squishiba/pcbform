@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=J1 Old Footprint=51462544 (KEYED) New Footprint=51462544
+Change Component Comment : Designator=J1 Old Comment=5-146254-4 KEYED New Comment=5-146254-4
+Change Component Designator: OldDesignator=J3 NewDesignator=J2
+Added Pin To Net: NetName=primary Pin=J1-8

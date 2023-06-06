@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=primary Pin=J1-8
+Change Component Footprint: Designator=J1 Old Footprint=51462544 New Footprint=51462544 (KEYED)
+Change Component Comment : Designator=J1 Old Comment=5-146254-4 New Comment=5-146254-4 KEYED
+Change Component Designator: OldDesignator=BODIES? NewDesignator=BODIES1
