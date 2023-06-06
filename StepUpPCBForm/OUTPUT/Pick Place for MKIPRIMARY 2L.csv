@@ -1,0 +1,16 @@
+Altium Designer Pick and Place Locations
+C:\git\pcbform\StepUpPCBForm\OUTPUT\Pick Place for MKIPRIMARY 2L.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       05/06/23
+Time:       23:31
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)"
+"J4","5-146254-4","TopLayer","51462544","31.0000","11.5000","90","Connector","31.0000","11.5000","32.2700","7.6900"
+"BODIES?","ELP43 I CORE","Mechanical2","B66291G0000X187","-30.0000","-58.0000","90","BODIES - ELP43 3D BODY CORE, I CORE","0.0000","0.0000","-30.0000","-58.0000"
+"J3","5-146254-4","TopLayer","51462544","31.0000","-9.5000","90","Connector","31.0000","-9.5000","32.2700","-13.3100"
