@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [MKIPRIMARY 4L.PcbDoc]
+   Generated File[MKIPRIMARY 4L-RoundHoles.TXT]
+   Generated File[MKIPRIMARY 4L-SlotHoles.TXT]
+   Generated File[MKIPRIMARY 4L.LDP]
+   Generated File[MKIPRIMARY 4L.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:13:50 AM On 6/7/2023

@@ -1,0 +1,72 @@
+Added Component: Designator=J1(51462544)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1307819_AMPMODU&DocType=Data+Sheet&DocLang=English&PartCntxt=5-146254-4&DocFormat=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.21mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "5-146254-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-5-146254-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/5-146254-4?qs=bwpFY26eRVegfj1X1pwXFA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J2(51462544)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1307819_AMPMODU&DocType=Data+Sheet&DocLang=English&PartCntxt=5-146254-4&DocFormat=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.21mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "5-146254-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-5-146254-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/5-146254-4?qs=bwpFY26eRVegfj1X1pwXFA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J3(51462544)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1307819_AMPMODU&DocType=Data+Sheet&DocLang=English&PartCntxt=5-146254-4&DocFormat=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.21mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "5-146254-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-5-146254-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/5-146254-4?qs=bwpFY26eRVegfj1X1pwXFA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J4(51462544)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1307819_AMPMODU&DocType=Data+Sheet&DocLang=English&PartCntxt=5-146254-4&DocFormat=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.21mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "5-146254-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-5-146254-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/5-146254-4?qs=bwpFY26eRVegfj1X1pwXFA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=primary Pin=J1-1
+Added Pin To Net: NetName=primary Pin=J1-2
+Added Pin To Net: NetName=primary Pin=J1-3
+Added Pin To Net: NetName=primary Pin=J1-4
+Added Pin To Net: NetName=primary Pin=J1-5
+Added Pin To Net: NetName=primary Pin=J1-6
+Added Pin To Net: NetName=primary Pin=J1-7
+Added Pin To Net: NetName=primary Pin=J1-8
+Added Pin To Net: NetName=secondary Pin=J2-1
+Added Pin To Net: NetName=secondary Pin=J2-2
+Added Pin To Net: NetName=secondary Pin=J2-3
+Added Pin To Net: NetName=secondary Pin=J2-4
+Added Pin To Net: NetName=secondary Pin=J2-5
+Added Pin To Net: NetName=secondary Pin=J2-6
+Added Pin To Net: NetName=secondary Pin=J2-7
+Added Pin To Net: NetName=secondary Pin=J2-8
+Added Pin To Net: NetName=primary Pin=J3-1
+Added Pin To Net: NetName=primary Pin=J3-2
+Added Pin To Net: NetName=primary Pin=J3-3
+Added Pin To Net: NetName=primary Pin=J3-4
+Added Pin To Net: NetName=primary Pin=J3-5
+Added Pin To Net: NetName=primary Pin=J3-6
+Added Pin To Net: NetName=primary Pin=J3-7
+Added Pin To Net: NetName=primary Pin=J3-8
+Added Pin To Net: NetName=secondary Pin=J4-1
+Added Pin To Net: NetName=secondary Pin=J4-2
+Added Pin To Net: NetName=secondary Pin=J4-3
+Added Pin To Net: NetName=secondary Pin=J4-4
+Added Pin To Net: NetName=secondary Pin=J4-5
+Added Pin To Net: NetName=secondary Pin=J4-6
+Added Pin To Net: NetName=secondary Pin=J4-7
+Added Pin To Net: NetName=secondary Pin=J4-8
+Added Member To Class: ClassName=Symbs Member=Component J1 5-146254-4
+Added Member To Class: ClassName=Symbs Member=Component J2 5-146254-4
+Added Member To Class: ClassName=Symbs Member=Component J3 5-146254-4
+Added Member To Class: ClassName=Symbs Member=Component J4 5-146254-4

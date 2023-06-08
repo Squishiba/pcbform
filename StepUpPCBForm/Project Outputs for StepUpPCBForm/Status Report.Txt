@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [MKIPRIMARY 4L.PcbDoc]
+   Generated File[Pick Place for MKIPRIMARY 4L.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:12:33 PM On 6/5/2023
