@@ -1,0 +1,137 @@
+Added Component: Designator=R?(R_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17888"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17888"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17888"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17888"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17888"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17888"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17888"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17888"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17888"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17888"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17888"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17888"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=primary Pin=R?-1
+Added Pin To Net: NetName=primary Pin=R?-1
+Added Pin To Net: NetName=primary Pin=R?-1
+Added Pin To Net: NetName=primary Pin=R?-1
+Added Pin To Net: NetName=primary Pin=R?-1
+Added Pin To Net: NetName=primary Pin=R?-1
+Added Pin To Net: NetName=primary Pin=R?-1
+Added Pin To Net: NetName=primary Pin=R?-1
+Added Pin To Net: NetName=primary Pin=R?-1
+Added Pin To Net: NetName=primary Pin=R?-1
+Added Pin To Net: NetName=primary Pin=R?-1
+Added Pin To Net: NetName=primary Pin=R?-1
+Added Pin To Net: NetName=primary Pin=R?-2
+Added Pin To Net: NetName=primary Pin=R?-2
+Added Pin To Net: NetName=primary Pin=R?-2
+Added Pin To Net: NetName=primary Pin=R?-2
+Added Pin To Net: NetName=primary Pin=R?-2
+Added Pin To Net: NetName=primary Pin=R?-2
+Added Pin To Net: NetName=primary Pin=R?-2
+Added Pin To Net: NetName=primary Pin=R?-2
+Added Pin To Net: NetName=primary Pin=R?-2
+Added Pin To Net: NetName=primary Pin=R?-2
+Added Pin To Net: NetName=primary Pin=R?-2
+Added Pin To Net: NetName=primary Pin=R?-2
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E
+Added Member To Class: ClassName=Symbs Member=Component R? 1206W4F0000T5E

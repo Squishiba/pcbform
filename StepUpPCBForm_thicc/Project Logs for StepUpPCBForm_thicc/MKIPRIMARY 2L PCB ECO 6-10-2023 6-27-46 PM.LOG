@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=primary Pin=R124-1
+Removed Pin From Net: NetName=primary Pin=R124-2
+Removed Pin From Net: NetName=primary Pin=R125-1
+Removed Pin From Net: NetName=primary Pin=R125-2
+Removed Pin From Net: NetName=primary Pin=R126-1
+Removed Pin From Net: NetName=primary Pin=R126-2
+Removed Member From Class: ClassName=Symbs Member=R124
+Removed Member From Class: ClassName=Symbs Member=R125
+Removed Member From Class: ClassName=Symbs Member=R126
